@@ -23,9 +23,4 @@ export class HomePage {
   btnAddClicked(){
     this.fdb.list("/myItems/").push(this.myInput);
   }
- 
-  delete (i){
-    this.fdb.list("/myItems/").remove(this.arrData[i].$key);
-  }
-
 }
