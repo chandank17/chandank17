@@ -1,0 +1,18 @@
+Fancy footer - https://codepen.io/tgeorgetom/pen/LYEOLNv
+scrollspy and side menu with pure javascript- https://codepen.io/ahmed-el-alfy/pen/xxGMJrv
+balls animation footer - https://codepen.io/wouterXD/pen/bGdgGJv
+
+moonraft kind of footer - https://codepen.io/hudsonmarinho/pen/FHGeK
+
+
+simple parllex - https://codepen.io/Reeh/pen/pqNzdx
+
+
+card animation - https://codepen.io/chielre/pen/YzyPqBw
+
+reiple slides - https://codepen.io/dilx/pen/yLNJXvm
+
+
+slide show - https://codepen.io/griffur/pen/jmOZRL
+
+scroll slide - https://codepen.io/marcomo/pen/zGOzEJ
